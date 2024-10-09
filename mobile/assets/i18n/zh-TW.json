@@ -282,7 +282,7 @@
   "location_picker_longitude_error": "請輸入有效的經度",
   "location_picker_longitude_hint": "在此輸入您的經度",
   "login_disabled": "登入已停用",
-  "login_form_api_exception": "API 異常。請檢查伺服器網址並重試",
+  "login_form_api_exception": "API異常。請檢查伺服器網址並重試",
   "login_form_back_button_text": "返回",
   "login_form_button_text": "登入",
   "login_form_email_hint": "youremail@email.com",
